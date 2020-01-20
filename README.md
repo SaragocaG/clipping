@@ -1,5 +1,5 @@
 # E-Commerce 
-### [Link Examplo](https://saragoca.com.br/examples/ecommerce/).
+### [Link Exemplo](https://saragoca.com.br/examples/ecommerce/).
 
 > Built with Vue JS
 

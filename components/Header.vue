@@ -20,7 +20,7 @@ export default {
 
 <style scoped>
   header {
-    background-image: url('/images/headerBg.svg');
+    background-image: url('./images/headerBg.svg');
     background-position-y: center;
     background-size: cover;
   }

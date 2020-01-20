@@ -1,6 +1,6 @@
-# clipping
+# E-Commerce
 
-> Technical evaluation
+> Built with Vue JS
 
 ## Build Setup
 

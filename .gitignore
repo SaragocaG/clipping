@@ -88,3 +88,10 @@ sw.*
 
 # Vim swap files
 *.swp
+
+# VS Code debugger configuration
+.vscode
+
+#package-lock
+package-lock.json
+yarn.lock
